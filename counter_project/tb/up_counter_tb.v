@@ -19,7 +19,7 @@ module up_counter_tb;
 		$dumpfile("up_counter.vcd");
 		$dumpvars(0,up_counter_tb);
 		rst;
-		#100;
+		repeat(20) @(posedge clk);
 		$finish;
 	end
 initial $monitor("time=%t,clk=%b,reset=%b,count=%b",$time,clk,reset,count);
