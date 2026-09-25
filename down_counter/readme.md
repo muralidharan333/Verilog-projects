@@ -12,8 +12,8 @@
 - **Working** : Increments from 15 to 0, then goes over to 15. Reset clears the counter to 15.
 
 ## 📊 Results
-- **Waveform** : ![Waveform Screenshot](waveform.png)  
-- **Synthesis** : ![Schematic Screenshot](down_counter_schematic.png)
+- **Waveform** : ![Waveform Screenshot](docs/waveform.png)  
+- **Synthesis** : ![Schematic Screenshot](docs/down_counter_schematic.png)
 
 ## 🧪 How to Run
 1. Compile RTL and testbench using your simulator (e.g., Icarus Verilog, ModelSim, or QuestaSim).  
