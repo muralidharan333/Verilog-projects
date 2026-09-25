@@ -1,5 +1,5 @@
 module down_counter_tb;
-	reg clk=1'b0,reset;
+	reg clk=1'b0,reset=1'b0;
 	wire [3:0]count;
 	
 	down_counter DUT(clk,reset,count);
