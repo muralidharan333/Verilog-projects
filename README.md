@@ -13,19 +13,19 @@ Each project includes:
 
 ##  Projects
 
-- [Counter Project](counter_project/docs/readme.md)  
+- [Counter Project](counter_project/readme.md)  
   4-bit up counter with task-based testbench, waveform, and synthesis schematic.
 
-- [Down Counter Project](down_counter/docs/readme.md)  
+- [Down Counter Project](down_counter/readme.md)  
   4-bit down counter with task-based testbench, waveform, and synthesis schematic.
 
-- [Up/Down Counter Project](up_down_counter/docs/readme.md)  
+- [Up/Down Counter Project](up_down_counter/readme.md)  
   Combined up/down counter design with control signal.
 
-- [FSM Project](fsm_project/docs/readme.md)  
+- [FSM Project](fsm_project/readme.md)  
   Finite State Machine design with verification and synthesis results.
 
-- [APB/SPI Project](apb_spi_project/docs/readme.md)  
+- [APB/SPI Project](apb_spi_project/readme.md)  
   Protocol-based design including APB slave and SPI modules.
 
 
