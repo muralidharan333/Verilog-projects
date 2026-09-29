@@ -19,7 +19,7 @@ Each project includes:
 - [Down Counter Project](down_counter/readme.md)  
   4-bit down counter with task-based testbench, waveform, and synthesis schematic.
 
-- [Up/Down Counter Project](Up_Down_Counter_Project/readme.md)  
+- [Up/Down Counter Project](up_down_counter_project/readme.md)  
   Combined up/down counter design with control signal.
 
 - [FSM Project](fsm_project/readme.md)  
